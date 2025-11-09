@@ -14,5 +14,5 @@ The game automatically cuts music tracks short and does not support full-length 
 Игра автоматически сокращает музыкальные треки и не поддерживает полноформатные пользовательские кассеты. В результате все новые пользовательские кассеты обрезаются в соответствии с временными ограничениями игры.
 
 ## Video
-[Watch the demo on YouTube](https://www.youtube.com/watch?v=6NlVJt8KGHc)
-https://www.youtube.com/watch?v=6NlVJt8KGHc
+[![Watch the demo](https://img.youtube.com/vi/6NlVJt8KGHc/0.jpg)](https://www.youtube.com/watch?v=6NlVJt8KGHc)
+<br>https://www.youtube.com/watch?v=6NlVJt8KGHc</br>
